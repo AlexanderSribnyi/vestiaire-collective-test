@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vestiaire-collective-test/static/css/main.6471d273.css",
-    "main.js": "/vestiaire-collective-test/static/js/main.42a545fa.js",
-    "static/js/787.0c3f432a.chunk.js": "/vestiaire-collective-test/static/js/787.0c3f432a.chunk.js",
+    "main.js": "/vestiaire-collective-test/static/js/main.4262628d.js",
+    "static/js/787.2f566ea1.chunk.js": "/vestiaire-collective-test/static/js/787.2f566ea1.chunk.js",
     "index.html": "/vestiaire-collective-test/index.html",
     "main.6471d273.css.map": "/vestiaire-collective-test/static/css/main.6471d273.css.map",
-    "main.42a545fa.js.map": "/vestiaire-collective-test/static/js/main.42a545fa.js.map",
-    "787.0c3f432a.chunk.js.map": "/vestiaire-collective-test/static/js/787.0c3f432a.chunk.js.map"
+    "main.4262628d.js.map": "/vestiaire-collective-test/static/js/main.4262628d.js.map",
+    "787.2f566ea1.chunk.js.map": "/vestiaire-collective-test/static/js/787.2f566ea1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6471d273.css",
-    "static/js/main.42a545fa.js"
+    "static/js/main.4262628d.js"
   ]
 }
